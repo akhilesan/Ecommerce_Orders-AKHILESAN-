@@ -26,14 +26,3 @@ It helps track **sales trends, customer behavior, product category performance, 
 - **GitHub** → Project portfolio hosting  
 
 ---
-
-## 📸 Dashboard Screenshots
-### 1. Sales Overview  
-![Sales Overview](Screenshots/dashboard_page1.png)  
-
-### 2. Category Analysis  
-![Category Analysis](Screenshots/dashboard_page2.png)  
-
----
-
-## 📂 Project Structure
